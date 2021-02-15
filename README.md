@@ -1,6 +1,16 @@
 # CPSC350_SP21_ASSIGNMENT1_MUNDAY
 * Stephanie Munday
 * Student ID: 2343625
+* email: smunday@chapman.edu
+* included files:
+  - Model.h
+  - Model.cpp
+  - Translator.h
+  - Translator.cpp
+  - FileProcessor.h
+  - FileProcessor.cpp
+  - main.cpp
+  - Makefile
 * References used:
   - https://www.tutorialspoint.com/cplusplus/cpp_switch_statement.htm
 https://stackoverflow.com/questions/5527665/why-am-i-getting-string-does-not-name-a-type-error
